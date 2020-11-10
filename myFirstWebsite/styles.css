@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
+html {background-image: url("assets/haterkep.png");
+     font-family: "Courier Prime", "Courier";}
+
+nav{background-color: #333333;
+    display: flex;
+    justify-content: space-between;}
+
+h1 {font-size: xx-large;
+    font-weight: 200;}
+
+a {color: #ff0099;
+   font-size: 23px;
+   padding-left: 2%;
+   padding-right: 2%;}
+
+img {padding: 1% 0% 1% 10%;}
+
+span {align-items: center; 
+      display: inline-flex;
+      padding-right: 10%;}
+
+.Fejléc {padding: 10% 10% 10% 10%;
+         font-size: large;}
+
+.Szöveg {padding-left: 10%;
+         padding-right: 10%;
+         font-size:larger;
+         width: 700px;
+         margin: 0 auto;              
+}
+h2 {color: #ff0099;
+    padding-top:5%;
+    padding-bottom:5%;}
+
+h3 {color: #ff0099;}
+
+div {text-align: center;
+     padding: 1% 1% 1% 1%;
+     margin: 1% 1% 1% 1%;        
+}
+
